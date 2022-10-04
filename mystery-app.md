@@ -15,17 +15,19 @@ The Mystery App is a simple API that has been implemented in many different prog
 - The code does not have to be scalable
   - A single file can be sufficient
 
-### Mystery Apps
+### Mystery App Ideas
 - Java
   - Javalin
-  - Spring Boot
+  - Spring Boot 
   - Java (standard Library)
+- Kotlin
+  - Javalin
+  - Spring Boot
 - JavaScript
   - express.js
   - node.js (standard Library)
 - TypeScript
-  - express.js 
-  - nest.js
+  - nest.js (TypeScript version of Spring)
 - Go
   - go (standard library)
 - Python
